@@ -15,3 +15,15 @@ p
 @provider/src/main/java/org/example/provider/SwedishGreeting.java,f/2/f230172fd3487b815b085190ba8075c0a7214d55
 W
 'consumer/src/main/java/module-info.java,4/f/4fee7a2f1b9e2ac3828fddf5b39a877b3e794f56
+W
+'provider/src/main/java/module-info.java,4/8/48f0c4389341c827911b7d002367f1b216352f87
+V
+&service/src/main/java/module-info.java,d/9/d979a52d2583ed8059ececb983c95228def4615b
+p
+@provider/src/main/java/org/example/provider/EnglishGreeting.java,4/8/48f79b7fcdcab66a3c23cfa694340f50b526eadd
+g
+7provider/src/main/java/org/example/provider/Dollar.java,0/5/0522ef391c14ac1c9766835687dbe8f3c3ca28bc
+e
+5provider/src/main/java/org/example/provider/Euro.java,4/f/4f86970ece53ed91e12dae8bf9ea830030fd3cb7
+i
+9service/src/main/java/org/example/service/Currencies.java,2/d/2dd03445649c4aa1980ba50cda43f2e3ab07a350
