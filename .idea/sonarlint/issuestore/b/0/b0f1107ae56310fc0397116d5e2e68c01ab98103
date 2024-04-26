@@ -1,8 +1,7 @@
 
 ‰
 java:S1130
-"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8ˆ¬ûÚğ1
-L	java:S106"+Replace this use of System.out by a logger.(çşÓşÿÿÿÿ8Œ¬ûÚğ1
-G	java:S106"+Replace this use of System.out by a logger.(“Ğ¨ğ8Œ¬ûÚğ1
-G	java:S106"+Replace this use of System.out by a logger.(ÍÌ‘û8¬ûÚğ1
-G	java:S106 "+Replace this use of System.out by a logger.(Œø‡†8¬ûÚğ1
+"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8Ÿò¶Îñ1
+G	java:S106"+Replace this use of System.out by a logger.(Íô’™8£ò¶Îñ1
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8¥ò¶Îñ1
